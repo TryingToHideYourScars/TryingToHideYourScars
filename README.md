@@ -3,10 +3,10 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&color=AA0000&center=true&vCenter=true&width=440&lines=I'm...;a...;Failure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF0033&center=true&vCenter=true&width=440&lines=I'm...;a...;Failure" alt="Typing SVG" />
 </h1>
 
----
+<hr style="background-color: #000; height: 1px; border: none;" />
 
 <div align="center">
 
@@ -18,14 +18,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" title="Ruby"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" title="Rust"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" title="Rust"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="Bash"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" title="Go"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
 </p>
 
----
+<hr style="background-color: #000; height: 1px; border: none;" />
 
 ### 🧪 Currently Learning
 
@@ -40,23 +40,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="35" title="SQL"/>
 </p>
 
----
+<hr style="background-color: #000; height: 1px; border: none;" />
 
 ### 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=TryingToHideYourScars&show_icons=true&theme=tokyonight&hide=issues&count_private=true" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TryingToHideYourScars&layout=donut&theme=tokyonight&hide_border=true" width="45%"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TryingToHideYourScars&show_icons=true&theme=tokyonight&hide=issues&count_private=true&include_all_commits=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TryingToHideYourScars&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
----
+<hr style="background-color: #000; height: 1px; border: none;" />
 
 <p align="center">
   <img src="https://c.tenor.com/H5lTJExTRvMAAAAd/tenor.gif" width="100%" alt="uwu"/>
 </p>
 
----
+<hr style="background-color: #000; height: 1px; border: none;" />
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=TryingToHideYourScars.TryingToHideYourScars)
+<p align="center">
+  ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=TryingToHideYourScars.TryingToHideYourScars)
+</p>
 
 </div>
