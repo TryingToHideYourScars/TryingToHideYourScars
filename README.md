@@ -3,12 +3,16 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AA0000&center=true&vCenter=true&width=440&lines=Sorry....;Romantik+Suicide;Failure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AA0000&center=true&vCenter=true&width=440&lines=I'm...;a...;Failure" alt="Typing SVG" />
 </h1>
 
 ---
 
 <div align="center">
+
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=TryingToHideYourScars.TryingToHideYourScars)
+
+---
 
 ### ⚙️ Languages I Use
 
@@ -23,7 +27,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
 
-<br/><br/>
+---
 
 ### 🧪 Currently Learning
 
@@ -38,10 +42,24 @@
 
 ---
 
+### 💼 Skills & Technologies
+
+<img src="https://github-widgetbox.vercel.app/api/skills?languages=python,html,javascript,c,cpp,rust,bash,go,php,typescript&frameworks=react,django,flask&theme=darkmode" width="100%"/>
+
+---
+
 ### 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=TryingToHideYourScars&show_icons=true&theme=tokyonight&hide=issues&count_private=true" width="45%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TryingToHideYourScars&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TryingToHideYourScars&layout=donut&theme=tokyonight&hide_border=true" width="45%"/>
+
+---
+
+### 🔥 Streaks & Activity
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TryingToHideYourScars&theme=tokyonight&hide_border=true" width="70%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TryingToHideYourScars&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
 
 ---
 
