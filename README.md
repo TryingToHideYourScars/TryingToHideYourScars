@@ -45,8 +45,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TryingToHideYourScars&show_icons=true&theme=tokyonight&hide=issues&count_private=true&include_all_commits=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TryingToHideYourScars&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TryingToHideYourScars&show_icons=true&theme=tokyonight&hide=issues&count_private=true&include_all_commits=true&cache_seconds=3600" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TryingToHideYourScars&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" width="45%" />
 </p>
 
 <hr style="background-color: #000; height: 1px; border: none;" />
