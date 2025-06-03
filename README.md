@@ -58,7 +58,7 @@
 <hr style="background-color: #000; height: 1px; border: none;" />
 
 <p align="center">
-  ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=TryingToHideYourScars.TryingToHideYourScars)
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=TryingToHideYourScars.TryingToHideYourScars" alt="visitor badge"/>
 </p>
 
 </div>
